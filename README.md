@@ -20,25 +20,25 @@ De esta manera se logra acercar a la sociedad en general a toda esta informació
 
 <h3>PROJECT INFORMATION</h3>
 
-<br><b>License:</b> MIT license (MIT)
-<br><b>website:</b> http://arcapps.hol.es/
-<br><b>apk:</b> https://drive.google.com/folderview?id=0B3VXcKM098CcOE0xRzRhZHUyV00&usp=sharing
-<br><b>space app challange:</b> https://2014.spaceappschallenge.org/project/arc-ambient-in-real-time-of-cosmos/
+<b>License:</b> MIT license (MIT)
+<br><b>Website:</b> http://arcapps.hol.es/
+<br><b>APK:</b> https://drive.google.com/folderview?id=0B3VXcKM098CcOE0xRzRhZHUyV00&usp=sharing
+<br><b>Space App Challange:</b> https://2014.spaceappschallenge.org/project/arc-ambient-in-real-time-of-cosmos/
 
 
 <h3>RESOURCES</h3>
 
-<br>excentricidad - http://www.windows2universe.org/physical_science/physics/mechanics/orbit/orbit_shape_interactive.html&lang=sp
-<br>datos planetas - http://es.wikipedia.org/wiki/Anexo:Datos_de_los_planetas_del_Sistema_Solar
-<br>investigation - http://sci.esa.int/venus-express/
-<br>investigation - http://mars.jpl.nasa.gov/mro/mission/
-<br>investigation - http://sci.esa.int/mars-express/
-<br>investigation - http://www.nasa.gov/mission_pages/ladee/main/#.Uupo4NJ5OSp
-<br>determinacion atmosfera - http://es.wikipedia.org/wiki/Atm%C3%B3sfera
-<br>clima tierra segun NASA - http://weather.msfc.nasa.gov/cgi-bin/post-goes
-<br>links astronomia - http://www.sea-astronomia.es/drupal/sites/default/files/archivos/exposiciones/Sol%20ultima.pdf
-<br>explicacion ley kepler - http://guillermoabramson.blogspot.mx/2012/07/el-brillo-del-sol.html
-<br>brillo y distancia segun lunimosidad - http://zebu.uoregon.edu/~soper/Light/luminosity.html
-<br>sun/earth comparison data - http://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html
-<br>caracteristicas del sol NASA - http://solarscience.msfc.nasa.gov/
-<br>temperatura solar y calculo de la luminosidad - http://www.eaae-astronomy.org/WG3-SS/WorkShops/SunLuminosity.html
+<b>Excentricidad</b> - http://www.windows2universe.org/physical_science/physics/mechanics/orbit/orbit_shape_interactive.html&lang=sp
+<br><b>Datos planetas</b> - http://es.wikipedia.org/wiki/Anexo:Datos_de_los_planetas_del_Sistema_Solar
+<br><b>Investigation</b> - http://sci.esa.int/venus-express/
+<br><b>Investigation</b> - http://mars.jpl.nasa.gov/mro/mission/
+<br><b>Investigation</b> - http://sci.esa.int/mars-express/
+<br><b>Investigation</b> - http://www.nasa.gov/mission_pages/ladee/main/#.Uupo4NJ5OSp
+<br><b>Determinacion atmosfera</b> - http://es.wikipedia.org/wiki/Atm%C3%B3sfera
+<br><b>Clima tierra segun NASA</b> - http://weather.msfc.nasa.gov/cgi-bin/post-goes
+<br><b>Links astronomia</b> - http://www.sea-astronomia.es/drupal/sites/default/files/archivos/exposiciones/Sol%20ultima.pdf
+<br><b>Explicacion ley Kepler</b> - http://guillermoabramson.blogspot.mx/2012/07/el-brillo-del-sol.html
+<br><b>Brillo y Distancia segun</b> lunimosidad - http://zebu.uoregon.edu/~soper/Light/luminosity.html
+<br><b>Sun/Earth Comparison Data</b> - http://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html
+<br><b>Caracteristicas del sol NASA</b> - http://solarscience.msfc.nasa.gov/
+<br><b>Temperatura Solar y Calculo de la luminosidad</b> - http://www.eaae-astronomy.org/WG3-SS/WorkShops/SunLuminosity.html
