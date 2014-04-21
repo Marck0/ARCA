@@ -20,10 +20,10 @@ De esta manera se logra acercar a la sociedad en general a toda esta informació
 
 <h3>PROJECT INFORMATION</h3>
 
-<b>License:</b> MIT license (MIT)
-<b>website:</b> http://arcapps.hol.es/
-<b>apk: https:</b>//drive.google.com/folderview?id=0B3VXcKM098CcOE0xRzRhZHUyV00&usp=sharing
-<b>space app challange:</b> https://2014.spaceappschallenge.org/project/arc-ambient-in-real-time-of-cosmos/
+<br><b>License:</b> MIT license (MIT)
+<br><b>website:</b> http://arcapps.hol.es/
+<br><b>apk:</b> https://drive.google.com/folderview?id=0B3VXcKM098CcOE0xRzRhZHUyV00&usp=sharing
+<br><b>space app challange:</b> https://2014.spaceappschallenge.org/project/arc-ambient-in-real-time-of-cosmos/
 
 
 <h3>RESOURCES</h3>
