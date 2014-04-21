@@ -38,7 +38,7 @@ De esta manera se logra acercar a la sociedad en general a toda esta informació
 <br><b>Weather in Earth NASA</b> - http://weather.msfc.nasa.gov/cgi-bin/post-goes
 <br><b>Astronomic</b> - http://www.sea-astronomia.es/drupal/sites/default/files/archivos/exposiciones/Sol%20ultima.pdf
 <br><b>Ley Kepler</b> - http://guillermoabramson.blogspot.mx/2012/07/el-brillo-del-sol.html
-<br><b>Brillo y Distancia segun</b> lunimosidad - http://zebu.uoregon.edu/~soper/Light/luminosity.html
+<br><b>Brillo y Distancia segun lunimosidad</b> - http://zebu.uoregon.edu/~soper/Light/luminosity.html
 <br><b>Sun/Earth Comparison Data</b> - http://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html
 <br><b>Caracteristics of SUN NASA</b> - http://solarscience.msfc.nasa.gov/
 <br><b>Temperatura Solar y Calculo de la luminosidad</b> - http://www.eaae-astronomy.org/WG3-SS/WorkShops/SunLuminosity.html
