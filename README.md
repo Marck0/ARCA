@@ -30,7 +30,6 @@ Source Code/Project URL: http://arcapps.hol.es/
 
 RESOURCES
 
-
 excentricidad - http://www.windows2universe.org/physical_science/physics/mechanics/orbit/orbit_shape_interactive.html&lang=sp
 datos planetas - http://es.wikipedia.org/wiki/Anexo:Datos_de_los_planetas_del_Sistema_Solar
 investigation - http://sci.esa.int/venus-express/
