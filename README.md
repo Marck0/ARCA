@@ -21,7 +21,7 @@ De esta manera se logra acercar a la sociedad en general a toda esta informació
 <h3>PROJECT INFORMATION</h3>
 
 <b>License:</b> MIT license (MIT)
-<br><b>Website:</b> http://arcapps.hol.es/
+<br><b>Website:</b> http://arcapp.hol.es/
 <br><b>APK:</b> https://drive.google.com/folderview?id=0B3VXcKM098CcOE0xRzRhZHUyV00&usp=sharing
 <br><b>Space App Challange:</b> https://2014.spaceappschallenge.org/project/arc-ambient-in-real-time-of-cosmos/
 
